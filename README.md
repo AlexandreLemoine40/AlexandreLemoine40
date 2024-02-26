@@ -8,7 +8,8 @@ With a passion for creating seamless web and mobile experiences, I thrive on tac
 
 ## Skills 🛠️
 
-- **Languages**: TypeScript, JavaScript
+### **Languages**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - **Frontend**: React, React Native, HTML5, CSS3
 - **Backend**: Node.js, Express.js
 - **Databases**: SQLite, MySQL, PostgreSQL
