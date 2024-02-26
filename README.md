@@ -33,7 +33,7 @@ With a passion for creating seamless web and mobile experiences, I thrive on tac
 
 ## What I Do 🚀
 
-- Develop robust and efficient RESTful APIs using ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) and ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white), including data validation with Vine.js, using SOLID principles and clear project architecture.
+- Develop robust and efficient RESTful APIs using Node.js and TypeScript, including data validation with Vine.js, using SOLID principles and clear project architecture.
 - Build dynamic and responsive user interfaces with React and React Native.
 - Design scalable database architectures and optimize query performance.
 - Collaborate with cross-functional teams to deliver high-quality software solutions.
