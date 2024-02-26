@@ -25,6 +25,6 @@ With a passion for creating seamless web and mobile experiences, I thrive on tac
 
 ## Let's Connect! 🤝
 
-I'm always eager to collaborate on exciting projects or discuss innovative ideas. Whether you're a fellow developer, a potential employer, or just someone passionate about technology, feel free to reach out! You can connect with me on [Linkeding](https://www.linkedin.com/in/alexandre-l-465210184/) or drop me an email at [lemoine.alexandre40@gmail.com].
+I'm always eager to collaborate on exciting projects or discuss innovative ideas. Whether you're a fellow developer, a potential employer, or just someone passionate about technology, feel free to reach out! You can connect with me on [Linkedin](https://www.linkedin.com/in/alexandre-l-465210184/) or drop me an email at [lemoine.alexandre40@gmail.com].
 
 Let's build the future together! 🌟
