@@ -1,10 +1,10 @@
 # Hi there! 👋
 
-I'm Alexandre, a seasoned full stack developer with expertise in TypeScript, Node.js, React Native, and building RESTful APIs. Welcome to my GitHub profile! 🚀
+I'm Alexandre, a seasoned full stack developer with expertise in TypeScript, Node.js, React Native, and building RESTful APIs. Welcome to my GitHub profile!
 
-## About Me ❓
+## About Me 💻
 
-With a passion for creating seamless web and mobile experiences, I thrive on tackling complex challenges and transforming ideas into scalable solutions. My journey in software development has equipped me with a diverse skill set, allowing me to excel in both frontend and backend development. 💻
+With a passion for creating seamless web and mobile experiences, I thrive on tackling complex challenges and transforming ideas into scalable solutions. My journey in software development has equipped me with a diverse skill set, allowing me to excel in both frontend and backend development. 
 
 ## Skills 🛠️
 
