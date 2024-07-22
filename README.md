@@ -8,6 +8,10 @@ With a passion for creating seamless web and mobile experiences, I thrive on tac
 
 ## Skills 🛠️
 
+### **Continuous Learning**
+I'm continuously learning new programming knowledge, such as crafting HTTP Router from scratch or programming language parser/interpreter using resources I can find on the Internet on various websites such as CodeCrafters (huge thanks to this great quality website)
+![TypeScript](https://backend.codecrafters.io/progress/http-server/430953a9-858f-4173-b9b4-60026feddca2)
+
 ### **Languages**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
