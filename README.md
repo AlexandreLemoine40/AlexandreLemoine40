@@ -4,12 +4,9 @@ I'm Alexandre, a seasoned full stack developer with expertise in TypeScript, Nod
 
 ## About Me 💻
 
-With a passion for creating seamless web and mobile experiences, I thrive on tackling complex challenges and transforming ideas into scalable solutions. My journey in software development has equipped me with a diverse skill set, allowing me to excel in both frontend and backend development. 
+With a passion for creating seamless web and mobile experiences, I thrive on tackling complex challenges and transforming ideas into scalable solutions. My journey in software development has equipped me with a diverse skill set, allowing me to excel in both frontend and backend development. I'm continuously learning by crafting complex projects and using advanced programming concepts on my spare time, using websites like [CodeCrafters](https://codecrafters.io).
 
 ## Skills 🛠️
-
-### **Continuous Learning**
-I'm continuously learning new programming knowledge, such as crafting HTTP Router from scratch or programming language parser/interpreter using resources I can find on the Internet on various websites such as CodeCrafters (huge thanks to this great quality website)
 
 ### CodeCrafters Certificates
 ![HTTP Server](https://backend.codecrafters.io/progress/http-server/430953a9-858f-4173-b9b4-60026feddca2)
